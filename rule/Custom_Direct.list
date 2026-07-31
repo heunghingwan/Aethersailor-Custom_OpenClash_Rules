@@ -205,10 +205,34 @@ DOMAIN-SUFFIX,easytier.top
 
 # 馒头
 DOMAIN-KEYWORD,m-team
+
+DOMAIN-KEYWORD,pt
+DOMAIN-KEYWORD,tracker
+DOMAIN-KEYWORD,chdbits
+
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,m-team.io
 DOMAIN-SUFFIX,manfuz.co
 
+DOMAIN-SUFFIX,cinefiles.info
+DOMAIN-SUFFIX,audiences.me
+DOMAIN-SUFFIX,open.cd
+DOMAIN-SUFFIX,qingwa.pro
+DOMAIN-SUFFIX,halomt.com
+DOMAIN-SUFFIX,holysalt.org
+DOMAIN-SUFFIX,52pt.site
+DOMAIN-SUFFIX,hdarea.club
+DOMAIN-SUFFIX,et8.org
+DOMAIN-SUFFIX,qingwapt.com
+DOMAIN-SUFFIX,totheglory.im
+DOMAIN-SUFFIX,soulvoice.club
+DOMAIN-SUFFIX,keepfrds.com
+DOMAIN-SUFFIX,lemonhd.club
+DOMAIN-SUFFIX,pandapt.net
+DOMAIN-SUFFIX,btschool.club
+DOMAIN-SUFFIX,piggo.me
+DOMAIN-SUFFIX,hhanclub.net
+DOMAIN-SUFFIX,eastgame.org
 # pt站劳教所 / add by Telegram user: kevin / Date: 2025-09-22 14:35:53
 DOMAIN-SUFFIX,ptlgs.org
 
