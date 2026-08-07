@@ -25,11 +25,10 @@ payload:
   - '+.lemonhd.club'
   - '+.pandapt.net'
   - '+.btschool.club'
-  - '+.*piggo.me'
-  - '+.hhanclub.net'
+  - '+.piggo.me'
+  - '+.hhanclub.net'  
   - '+.eastgame.org'
   - '+.ptlgs.org'
-
   - '*quickconnect*'
   - '*synology*'
   - '+.00333118.com'
