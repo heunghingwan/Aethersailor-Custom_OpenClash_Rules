@@ -5,8 +5,8 @@
 
 payload:
   - '*m-team*'
-  - 'tracker*'
-  - 'pt*'
+  - '*tracker*'
+  - '*pt*'
   - '*chdbits*'
   - '*manfuz.co*'
   - '+.hhanclub.net'
@@ -19,6 +19,7 @@ payload:
   - '+.52pt.site'
   - '+.hdarea.club'
   - '+.et8.org'
+  - '+.qingwapt.org'
   - '+.qingwapt.com'
   - '+.totheglory.im'
   - '+.soulvoice.club'
